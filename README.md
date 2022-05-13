@@ -16,7 +16,7 @@ The number 19 in the name VGG refers to the fact that it is 19 layers deep neura
 
 The most unique thing about VGG19 is that instead of having a large number of hyper-parameters they focused on having convolution layers of 3x3 filter with stride 1 and always used the same padding and maxpool layer of 2x2 filter of stride 2.
 
-In the 1st attempt to create NFTs, I had fun playimg with the generative arts code inputting different shapes, colors & background colors.
+In the 1st attempt to create NFTs, I had fun playing with the generative arts code inputting different shapes, colors & background colors.
 
 The 2nd time around, I used CNN which is a version of deep learning pre trained model which has 19 layers which are the weights. An image & a background image were merged together to create a unique image. As the process is happening, images go through a loss-best loss and generate 10 of the same merged images. They get more granier towards the end.
 
